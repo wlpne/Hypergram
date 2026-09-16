@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="/assets/logo.png" alt="Hypergram">
+    <img src="/assets/logo.png" alt="Hypergram" width=200>
     <h1> Hypergram </h1>
     is a Telegram fork that adds many customization and qol features.
 </div>
